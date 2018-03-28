@@ -1,6 +1,6 @@
 # react-clock-tutorial
 
-React tutorial adapted from Wes Bos Javascript30 - Day 02 - JS + CSS Clock tutorial. I originally created this using vanilla js as seen [here](https://codepen.io/StpCollabr8nLstn/pen/xgOwXz).
+React tutorial adapted from [Wes Bos Javascript30](https://github.com/wesbos/JavaScript30) - Day 02 - JS + CSS Clock tutorial. I originally created this using vanilla js as seen [here](https://codepen.io/StpCollabr8nLstn/pen/xgOwXz).
 
 ---
 
