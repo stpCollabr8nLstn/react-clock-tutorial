@@ -5,7 +5,7 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <Clock />
+      <div>Let's Build A Clock!</div>
     );
   }
 }
