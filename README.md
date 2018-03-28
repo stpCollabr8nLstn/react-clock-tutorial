@@ -17,10 +17,11 @@ React tutorial adapted from [Wes Bos Javascript30](https://github.com/wesbos/Jav
 
 1. Run `npx create-react-app react-clock`
 2. `cd react-clock`
-3. Copy the [starter-files](https://github.com/stpCollabr8nLstn/react-clock-tutorial/tree/master/starter-files) into `react-clock/src`
-4. Set state (constructor)
-5. Get initial time (props)
-6. Set timer (componentDidMount/componentWillUnmount)
-7. Check dev tools
-8. define tick
-9. Add inline style
+3. `npm start`
+4. Copy the [starter-files](https://github.com/stpCollabr8nLstn/react-clock-tutorial/tree/master/starter-files) into `react-clock/src`
+5. Set state (constructor)
+6. Get initial time (props)
+7. Set timer (componentDidMount/componentWillUnmount)
+8. Check dev tools
+9. define tick
+10. Add inline style
