@@ -20,6 +20,7 @@ React tutorial adapted from Wes Bos Javascript30 - Day 02 - JS + CSS Clock tutor
 3. Copy the [starter-files](https://github.com/stpCollabr8nLstn/react-clock-tutorial/tree/master/starter-files) into `react-clock/src`
 4. Set state (constructor)
 5. Get initial time (props)
-6. Set initial time (componentDidMount)
+6. Set timer (componentDidMount/componentWillUnmount)
 7. Check dev tools
-8.
+8. define tick
+9. Add inline style
