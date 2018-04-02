@@ -15,10 +15,11 @@ React tutorial adapted from [Wes Bos Javascript30](https://github.com/wesbos/Jav
 
 ##### Ready! Set! CODE!!!
 
-1. Run `npx create-react-app react-clock`
+1. Run `npx create-react-app react-clock` 
+    - _Note:_ this command installs a temporary create-react-app and calls it, without polluting global installs or requiring more than one step! [Learn more](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
 2. `cd react-clock`
-3. `npm start`
-4. Copy the [starter-files](https://github.com/stpCollabr8nLstn/react-clock-tutorial/tree/master/starter-files) into `react-clock/src`
+3. Copy the [starter-files](https://github.com/stpCollabr8nLstn/react-clock-tutorial/blob/master/starter-files.zip) into `react-clock/src`
+4. `npm start`
 5. Set state (constructor)
 6. Get initial time (props)
 7. Set timer (componentDidMount/componentWillUnmount)
