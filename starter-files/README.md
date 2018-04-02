@@ -7,7 +7,7 @@ calcDegree (unit, totalUnits) {
 ```
 
 inline-style
-```js
+```jsx
 style={{transform:`rotate(${this.state.hrDeg}deg)`}}
 ```
 
