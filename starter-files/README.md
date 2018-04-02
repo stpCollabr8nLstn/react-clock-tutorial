@@ -8,7 +8,7 @@ calcDegree (unit, totalUnits) {
 
 inline-style
 ```jsx
-style={{transform:`rotate(${this.state.hrDeg}deg)`}}
+style={{ transform:`rotate(${this.state.hrDeg}deg)` }}
 ```
 
 lifecycle methods
