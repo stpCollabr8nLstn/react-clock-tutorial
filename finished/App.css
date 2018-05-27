@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(to left top, #1D3458, #3C6DF0);
+  font-size: 2rem;
+  text-align: center;
+  font-family:'helvetica neue';
+  display:flex;
+  flex:1;
+  min-height: 100vh; /* Equal to 100% of the height of the viewport's initial */
+  align-items: center;
+  justify-content: center;
+}
